@@ -2,7 +2,7 @@
 App Minhas Anotações
 </h1>
 
-
+![anotaçoes](https://user-images.githubusercontent.com/65955916/87234050-a0052a00-c3a3-11ea-9d28-d990c7ee0e4f.png)
 
 ## Sobre
 
